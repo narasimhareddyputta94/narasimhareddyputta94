@@ -79,7 +79,15 @@ I am on the lookout for opportunities that challenge me and allow me to leverage
 
 ## 📬 Let's Connect
 
-I'd love to connect with professionals, mentors, and anyone passionate about technology. Feel free to reach out for discussions on technology, career advice, or potential collaborations.
+Feel free to connect with me on LinkedIn or check out my GitHub repositories!
+
+<a href="https://www.linkedin.com/in/yourlinkedinprofile/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Narasimha%20Reddy%20Putta-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://github.com/yourgithubusername">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-yourgithubusername-lightgrey?style=for-the-badge&logo=github"/>
+</a>
+
 
 Thank you for stopping by my profile! Let's make something remarkable together.
 
