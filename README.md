@@ -56,7 +56,8 @@ Greetings! 👋 I'm Narasimha, currently diving deep into the world of Computer 
 
 ### Scaler Academy
 
-[![Scaler Academy Profile](https://scaler-og-image.vercel.app/api/yourscalerusername)](https://www.scaler.com/)
+[![Scaler Academy Profile](https://scaler-og-image.vercel.app/api/81e1f249afe0)](https://www.scaler.com/academy/profile/81e1f249afe0/)
+
 
 
 
