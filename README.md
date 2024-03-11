@@ -1,14 +1,17 @@
-<div align="center">
+<div align="center" style="background-image: url('URL_TO_YOUR_BACKGROUND_IMAGE'); background-size: cover; padding: 50px;">
 
-# Hello, I'm Narasimha Reddy Putta! 🚀
+  <h1>Hello, I'm Narasimha Reddy Putta! 🚀</h1>
 
-### Passionate Technologist & Lifelong Learner
-#### MSc in Computer Science Candidate | Former Civil Engineer turned Data Analyst 🏗️📊
-#### Actively Seeking Opportunities in Software Development & Data Engineering
+  <h3>Passionate Technologist & Lifelong Learner</h3>
+  <p>MSc in Computer Science Candidate | Former Civil Engineer turned Data Analyst 🏗️📊</p>
+  <p>Actively Seeking Opportunities in Software Development & Data Engineering</p>
 
-![Banner]([[URL_TO_YOUR_IMAGE](https://stock.adobe.com/search?k=technology+banner&asset_id=582575676)](https://www.pexels.com/photo/plants-under-starry-sky-355887/))
+  <img alt="Banner" src="URL_TO_YOUR_BANNER_IMAGE" style="width: 100%; max-width: 800px; margin-top: 20px;">
 
 </div>
+
+
+
 
 ---
 
