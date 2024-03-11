@@ -52,11 +52,13 @@ Greetings! 👋 I'm Narasimha, currently diving deep into the world of Computer 
 
 ### LeetCode Profile
 
-[![Your LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=yourleetcodeusername&theme=dark)](https://leetcode.com/narasimha_reddy_putta94/)
+[![Your LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=narasimha_reddy_putta94&theme=dark)](https://leetcode.com/narasimha_reddy_putta94/)
 
 ### Scaler Academy
 
 [![Scaler Academy Profile](https://scaler-og-image.vercel.app/api/yourscalerusername)](https://www.scaler.com/)
+
+
 
 
 
