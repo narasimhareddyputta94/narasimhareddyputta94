@@ -1,17 +1,14 @@
 <div align="center" style="background-image: url('URL_TO_YOUR_BACKGROUND_IMAGE'); background-size: cover; padding: 50px;">
 
+  <img alt="Banner" src="URL_TO_YOUR_BANNER_IMAGE" style="width: 100%; max-width: 800px; border-radius: 10px; margin-top: -50px;">
+
   <h1>Hello, I'm Narasimha Reddy Putta! 🚀</h1>
 
   <h3>Passionate Technologist & Lifelong Learner</h3>
   <p>MSc in Computer Science Candidate | Former Civil Engineer turned Data Analyst 🏗️📊</p>
   <p>Actively Seeking Opportunities in Software Development & Data Engineering</p>
 
-  <img alt="Banner" src="URL_TO_YOUR_BANNER_IMAGE" style="width: 100%; max-width: 800px; margin-top: 20px;">
-
 </div>
-
-
-
 
 ---
 
