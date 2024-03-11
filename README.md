@@ -6,7 +6,7 @@
 #### MSc in Computer Science Candidate | Former Civil Engineer turned Data Analyst 🏗️📊
 #### Actively Seeking Opportunities in Software Development & Data Engineering
 
-![Banner](URL_TO_YOUR_IMAGE)
+![Banner]([URL_TO_YOUR_IMAGE](https://stock.adobe.com/search?k=technology+banner&asset_id=582575676))
 
 </div>
 
