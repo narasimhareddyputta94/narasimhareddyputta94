@@ -98,7 +98,7 @@ I am on the lookout for opportunities that challenge me and allow me to leverage
 
 ## 📬 Let's Connect
 
-Feel free to connect with me on LinkedIn or check out my GitHub repositories!
+Feel free to connect with me on LinkedIn, check out my GitHub repositories, or follow me on Instagram!
 
 <a href="https://www.linkedin.com/in/yourlinkedinprofile/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Narasimha%20Reddy%20Putta-blue?style=for-the-badge&logo=linkedin"/>
@@ -106,6 +106,10 @@ Feel free to connect with me on LinkedIn or check out my GitHub repositories!
 <a href="https://github.com/yourgithubusername">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-yourgithubusername-lightgrey?style=for-the-badge&logo=github"/>
 </a>
+<a href="https://www.instagram.com/yourinstagramusername/">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-Your%20Name-orange?style=for-the-badge&logo=instagram"/>
+</a>
+
 
 
 Thank you for stopping by my profile! Let's make something remarkable together.
