@@ -44,6 +44,17 @@ Greetings! 👋 I'm Narasimha, currently diving deep into the world of Computer 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
+## 💻 GitHub & LeetCode Streak
+
+### GitHub Contributions
+
+[![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=dark)](https://github.com/yourgithubusername)
+
+### LeetCode Streak
+
+[![Your LeetCode Streak](https://leetcode-stats-six.vercel.app/api?username=yourleetcodeusername&theme=dark)](https://leetcode.com/yourleetcodeusername/)
+
+
 ## 🛠️ Projects & Contributions
 
 I've always believed in the power of learning by doing. Here are a few projects I've contributed to:
