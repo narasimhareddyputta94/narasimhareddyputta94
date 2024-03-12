@@ -49,7 +49,7 @@ Greetings! 👋 I'm Narasimha, currently diving deep into the world of Computer 
 
 ### GitHub Contributions
 
-[![Your GitHub Contributions](https://github-readme-stats.vercel.app/api?username=yourgithubusername&count_private=true&show_icons=true&theme=dark)](https://github.com/yourgithubusername)
+[![Your GitHub Contributions](https://github-readme-stats.vercel.app/api?username=yourgithubusername&count_private=true&show_icons=true&theme=dark)](https://github.com/narasimhareddyputta94)
 
 ### LeetCode Profile
 
