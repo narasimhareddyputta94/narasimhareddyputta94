@@ -107,6 +107,6 @@ Feel free to connect with me on LinkedIn, check out my GitHub repositories, or f
 <a href="https://github.com/yourgithubusername">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-yourgithubusername-lightgrey?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://www.instagram.com/yourinstagramusername/">
+<a href="https://www.instagram.com/full_stack_guy/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-Your%20Name-orange?style=for-the-badge&logo=instagram"/>
 </a>
