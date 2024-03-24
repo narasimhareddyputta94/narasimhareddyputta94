@@ -104,7 +104,7 @@ Feel free to connect with me on LinkedIn, check out my GitHub repositories, or f
 <a href="https://www.linkedin.com/in/yourlinkedinprofile/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Narasimha%20Reddy%20Putta-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="https://github.com/yourgithubusername">
+<a href="https://github.com/narasimhareddyputta94">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-yourgithubusername-lightgrey?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://www.instagram.com/full_stack_guy/">
