@@ -18,14 +18,18 @@ Greetings! 👋 I'm Narasimha, diving deep into the world of Computer Science at
 
 ## 🌐 Technical Proficiency
 
-**Languages & Frameworks:**  
+**Languages**  
 ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+
+**Frameworks:**
 ![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+
 
 **Databases & Middleware:**  
 ![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
