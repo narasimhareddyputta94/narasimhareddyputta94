@@ -25,7 +25,7 @@ Greetings! 👋 I'm Narasimha, diving deep into the world of Computer Science at
 ![](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 
-**Frameworks**
+**Frameworks** 
 ![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
