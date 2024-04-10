@@ -18,18 +18,14 @@ Greetings! 👋 I'm Narasimha, diving deep into the world of Computer Science at
 
 ## 🌐 Technical Proficiency
 
-**Languages**  
+**Languages & Frameworks:**  
 ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-
-
-**Frameworks** 
 ![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-
 
 **Databases & Middleware:**  
 ![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -82,4 +78,3 @@ I am on the lookout for opportunities that challenge me and allow me to leverage
 [![](https://img.shields.io/badge/LinkedIn-Narasimha%20Reddy%20Putta-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinprofile/)
 [![](https://img.shields.io/badge/GitHub-narasimhareddyputta94-lightgrey?style=for-the-badge&logo=github)](https://github.com/narasimhareddyputta94)
 [![](https://img.shields.io/badge/Instagram-Your%20Name-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/full_stack_guy/)
-
