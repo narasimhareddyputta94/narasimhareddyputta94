@@ -58,17 +58,6 @@ I've always believed in the power of learning by doing. Here are a few projects 
 - **[Project Name]**: A brief description of the project. [Link](#)
 - **[Open Source Initiative]**: How I contributed to the project. [Link](#)
 
-## 🤝 Networking & Collaboration
-
-I'm a firm believer in the power of networking. You can find me actively participating in:
-
-- Industry meetups
-- Online communities like [Specific Community]
-- [Other Platforms]
-
-## 🚀 What's Next
-
-I am on the lookout for opportunities that challenge me and allow me to leverage my skills in software development and data engineering. I'm eager to contribute, learn, and grow in dynamic environments.
 
 ## 📬 Let's Connect
 
