@@ -1,6 +1,3 @@
-<div align="center">
-
-![Banner](https://source.unsplash.com/1200x300/?technology)
 
 # Hello, I'm Narasimha Reddy Putta! 🚀
 
