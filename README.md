@@ -66,11 +66,11 @@ manufacturer. Used Spring Boot and SQL for the backend, with a React.js frontend
 ##### Technologies: Java, Spring Boot, React.js, SQL, Kubernetes, AWS
 
 ### Inventory and Order Management System for Retail: 
-Build a system to manage inventory, process orders, and handle customer relationships for a retail business. 
+Build a system to manage inventory, process orders, and handle customer relationships for a retail business
 ##### Technologies: Java, Spring Boot, Angular for the frontend, Spring Data, and Oracle or MySQL 
 
 ### Online Banking System:
-Create a web-based banking application where users can manage their accounts, make transfers, and pay bills online 
+Create a web-based banking application where users can manage their accounts, make transfers, and pay bills online
 ##### Technologies: Java, Spring Boot, Spring Data JPA, Spring Security, PostgreSQL
 
 
