@@ -74,7 +74,7 @@ Build a system to manage inventory, process orders, and handle customer relation
 ##### Technologies: Java, Spring Boot, Angular for the frontend, Spring Data, and Oracle or MySQL 
 
 ### Online Banking System:
-Create a web-based banking application where users can manage their accounts, make transfers, and pay bills online. 
+Create a web-based banking application where users can manage their accounts, make transfers, and pay bills online 
 ##### Technologies: Java, Spring Boot, Spring Data JPA, Spring Security, PostgreSQL
 
 
@@ -82,4 +82,4 @@ Create a web-based banking application where users can manage their accounts, ma
 
 [![](https://img.shields.io/badge/LinkedIn-Narasimha%20Reddy%20Putta-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinprofile/)
 [![](https://img.shields.io/badge/GitHub-narasimhareddyputta94-lightgrey?style=for-the-badge&logo=github)](https://github.com/narasimhareddyputta94)
-[![](https://img.shields.io/badge/Instagram-Your%20Name-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/full_stack_guy/)
+[![](https://img.shields.io/badge/Instagram-Narasimha%20Reddy-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/full_stack_guy/)
