@@ -48,8 +48,6 @@ Greetings! 👋 I'm Narasimha, diving deep into the world of Computer Science at
 
 <div>
 
-[![Your GitHub Contributions](https://github-readme-stats.vercel.app/api?username=yourgithubusername&count_private=true&show_icons=true&theme=dark)](https://github.com/narasimhareddyputta94)
-
 [![Your LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=narasimha_reddy_putta94&theme=dark)](https://leetcode.com/narasimha_reddy_putta94/)
 
 </div>
