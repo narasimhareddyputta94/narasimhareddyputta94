@@ -46,7 +46,7 @@ Greetings! 👋 I'm Narasimha, diving deep into the world of Computer Science at
 
 ## 💻 GitHub, LeetCode & Scaler Academy
 
-<div align="center">
+<div>
 
 [![Your GitHub Contributions](https://github-readme-stats.vercel.app/api?username=yourgithubusername&count_private=true&show_icons=true&theme=dark)](https://github.com/narasimhareddyputta94)
 
