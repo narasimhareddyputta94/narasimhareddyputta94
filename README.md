@@ -44,15 +44,13 @@ Greetings! 👋 I'm Narasimha, diving deep into the world of Computer Science at
 ![](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 
-## 💻 GitHub, LeetCode & Scaler Academy
+## 💻 GitHub, LeetCode
 
 <div>
 
 [![Your GitHub Contributions](https://github-readme-stats.vercel.app/api?username=yourgithubusername&count_private=true&show_icons=true&theme=dark)](https://github.com/narasimhareddyputta94)
 
 [![Your LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=narasimha_reddy_putta94&theme=dark)](https://leetcode.com/narasimha_reddy_putta94/)
-
-[![Scaler Academy Profile](https://scaler-og-image.vercel.app/api/81e1f249afe0)](https://www.scaler.com/academy/profile/81e1f249afe0/)
 
 </div>
 
