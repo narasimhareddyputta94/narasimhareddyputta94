@@ -55,8 +55,22 @@ Greetings! 👋 I'm Narasimha, diving deep into the world of Computer Science at
 
 I've always believed in the power of learning by doing. Here are a few projects I've contributed to:
 
-- **[Project Name]**: A brief description of the project. [Link](#)
-- **[Open Source Initiative]**: How I contributed to the project. [Link](#)
+#### E-Commerce Application: 
+Engineered a full-stack e-commerce application with Spring Boot serving the backend, Angular for the front end, and SQL for database management. We utilized Kubernetes for orchestrating container deployment and scaling on AWS, enhancing the app’s availability and load handling.
+##### Technologies: Java, Spring Boot, Angular, SQL, Kubernetes, AWS
+
+### Enterprise Resource Planning (ERP) System: 
+Developed an ERP system to streamline business processes for a mid-sized 
+manufacturer. Used Spring Boot and SQL for the backend, with a React.js frontend. The system was containerized using Docker and managed with Kubernetes on AWS, supporting scalable and secure operations. 
+##### Technologies: Java, Spring Boot, React.js, SQL, Kubernetes, AWS
+
+### Inventory and Order Management System for Retail: 
+Build a system to manage inventory, process orders, and handle customer relationships for a retail business. 
+##### Technologies: Java, Spring Boot, Angular for the frontend, Spring Data, and Oracle or MySQL 
+
+### Online Banking System:
+Create a web-based banking application where users can manage their accounts, make transfers, and pay bills online. 
+##### Technologies: Java, Spring Boot, Spring Data JPA, Spring Security, PostgreSQL
 
 
 ## 📬 Let's Connect
