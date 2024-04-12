@@ -44,7 +44,7 @@ Greetings! 👋 I'm Narasimha, diving deep into the world of Computer Science at
 ![](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 
-## 💻 GitHub, LeetCode
+## 💻LeetCode
 
 <div>
 
