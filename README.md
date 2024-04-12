@@ -1,8 +1,8 @@
-<div align="center" style="background-image: url('URL_TO_YOUR_BACKGROUND_IMAGE'); background-size: cover; padding: 50px;">
-<div align="center">
+<div  style="background-image: url('URL_TO_YOUR_BACKGROUND_IMAGE'); background-size: cover; padding: 50px;">
+
 
   <img alt="Banner" src="https://source.unsplash.com/1200x300/?technology" style="width: 100%; max-width: 800px; border-radius: 10px; margin-top: -50px;">
-![Banner](https://source.unsplash.com/1200x300/?technology)
+
 
 # Hello, I'm Narasimha Reddy Putta! 🚀
 
