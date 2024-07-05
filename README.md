@@ -36,7 +36,13 @@ Greetings! 👋 I'm Narasimha, a Software Development Engineer with a strong bac
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-## 💻LeetCode
+**Other Technologies:**  
+![](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![](https://img.shields.io/badge/Microservices-0078D7?style=flat-square&logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/Cache-FFD700?style=flat-square&logo=caching&logoColor=white)
+
+## 💻 LeetCode
 
 <div>
 
@@ -48,23 +54,59 @@ Greetings! 👋 I'm Narasimha, a Software Development Engineer with a strong bac
 
 I've always believed in the power of learning by doing. Here are a few projects I've contributed to:
 
-#### E-Commerce Application: 
-Engineered a full-stack e-commerce application with Spring Boot serving the backend, Angular for the front end, and SQL for database management. We utilized Kubernetes for orchestrating container deployment and scaling on AWS, enhancing the app’s availability and load handling.
-##### Technologies: Java, Spring Boot, Angular, SQL, Kubernetes, AWS
+### E-Commerce Application
+Designed and implemented a robust e-commerce platform featuring a comprehensive product catalog, user authentication, and a secure payment gateway. Leveraged Spring Boot for the backend services, Angular for the dynamic user interface, and SQL for data management. Utilized Kubernetes for deployment and scaling on AWS, ensuring high availability and fault tolerance. Integrated Kafka for real-time order processing and Elasticsearch for advanced search functionalities.
 
-#### Enterprise Resource Planning (ERP) System: 
-Developed an ERP system to streamline business processes for a mid-sized 
-manufacturer. Used Spring Boot and SQL for the backend, with a React.js frontend. The system was containerized using Docker and managed with Kubernetes on AWS, supporting scalable and secure operations. 
-##### Technologies: Java, Spring Boot, React.js, SQL, Kubernetes, AWS
+**Technologies:**  
+![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 
+![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
+![](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) 
+![](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white) 
+![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) 
+![](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![](https://img.shields.io/badge/Microservices-0078D7?style=flat-square&logo=microsoft&logoColor=white)
 
-#### Inventory and Order Management System for Retail: 
-Build a system to manage inventory, process orders, and handle customer relationships for a retail business
-##### Technologies: Java, Spring Boot, Angular for the frontend, Spring Data, and Oracle or MySQL 
+### Enterprise Resource Planning (ERP) System
+Architected a comprehensive ERP solution to optimize and automate key business processes for a mid-sized manufacturing enterprise. Implemented backend services with Spring Boot and SQL, while the frontend was developed using React.js. Deployed the system on AWS using Docker and Kubernetes for scalable and secure operations. Employed a microservices architecture to enhance modularity and maintainability.
 
-#### Online Banking System:
-Create a web-based banking application where users can manage their accounts, make transfers, and pay bills online
-##### Technologies: Java, Spring Boot, Spring Data JPA, Spring Security, PostgreSQL
+**Technologies:**  
+![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 
+![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
+![](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) 
+![](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white) 
+![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) 
+![](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/Microservices-0078D7?style=flat-square&logo=microsoft&logoColor=white)
 
+### Inventory and Order Management System for Retail
+Developed a high-performance inventory and order management system tailored for retail businesses, enhancing inventory tracking, order fulfillment, and customer relationship management. Leveraged Spring Boot and Angular for the application stack, with real-time data processing via Kafka. Implemented Elasticsearch to provide fast and accurate search capabilities, ensuring seamless user experience.
+
+**Technologies:**  
+![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 
+![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
+![](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) 
+![](https://img.shields.io/badge/Spring_Data-6DB33F?style=flat-square&logo=spring&logoColor=white) 
+![](https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white) 
+![](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![](https://img.shields.io/badge/Microservices-0078D7?style=flat-square&logo=microsoft&logoColor=white)
+
+### Online Banking System
+Engineered a secure and user-friendly online banking system, enabling customers to manage accounts, perform transactions, and pay bills through a web interface. Utilized Spring Boot for the backend services, Spring Security for robust authentication and authorization, and PostgreSQL for data management. Incorporated Kafka for real-time transaction processing and Elasticsearch for efficient query handling of transaction history.
+
+**Technologies:**  
+![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 
+![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
+![](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white) 
+![](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring&logoColor=white) 
+![](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![](https://img.shields.io/badge/Microservices-0078D7?style=flat-square&logo=microsoft&logoColor=white)
 
 ## 📬 Let's Connect
 
