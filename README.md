@@ -48,6 +48,7 @@ Greetings! 👋 I'm Narasimha, a Software Development Engineer with a strong bac
 
 [![Your LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=narasimha_reddy_putta94&theme=dark)](https://leetcode.com/narasimha_reddy_putta94/)
 
+
 </div>
 
 ## 🛠️ Projects & Contributions
