@@ -1,12 +1,9 @@
-<div  style="background-image: url('URL_TO_YOUR_BACKGROUND_IMAGE'); background-size: cover; padding: 50px;">
 
-  <img alt="Banner" src="https://source.unsplash.com/1200x300/?technology" style="width: 100%; max-width: 800px; border-radius: 10px; margin-top: -50px;">
 
-# Hello, I'm Narasimha Reddy Putta! 🚀
-
-### Software Development Engineer | Java & Cloud Technologies Specialist
-MSc in Computer Science Candidate at DePaul University  
-Actively Seeking Opportunities in Software Development & Cloud Solutions
+  <h1>Hello, I'm Narasimha Reddy Putta! 🚀</h1>
+  <h3>Software Development Engineer | Java & Cloud Technologies Specialist</h3>
+  <p>MSc in Computer Science Candidate at DePaul University</p>
+  <p>Actively Seeking Opportunities in Software Development & Cloud Solutions</p>
 
 </div>
 
@@ -14,7 +11,9 @@ Actively Seeking Opportunities in Software Development & Cloud Solutions
 
 ## 🌟 About Me
 
-Greetings! 👋 I'm Narasimha, a Software Development Engineer with a strong background in Java, Python, and JavaScript. Currently studying Computer Science at DePaul University, I am passionate about developing scalable server applications and optimizing cloud solutions.
+Greetings! 👋 I'm Narasimha, a Software Development Engineer with a strong background in Java, Python, and JavaScript. Currently studying Computer Science at DePaul University, I am passionate about developing scalable server applications and optimizing cloud solutions. With 2.5 years of professional experience as a software development engineer in India and an academic foundation in civil engineering, I've made a transition to computer science, combining analytical skills with a deep understanding of software development.
+
+My goal is to leverage my diverse skill set and experience to build innovative solutions that drive efficiency and value. Whether it's through developing high-performance backend systems or deploying robust cloud-based applications, I am dedicated to continuous learning and making impactful contributions.
 
 ## 🌐 Technical Proficiency
 
@@ -42,14 +41,6 @@ Greetings! 👋 I'm Narasimha, a Software Development Engineer with a strong bac
 ![](https://img.shields.io/badge/Microservices-0078D7?style=flat-square&logo=microsoft&logoColor=white)
 ![](https://img.shields.io/badge/Cache-FFD700?style=flat-square&logo=caching&logoColor=white)
 
-## 💻 LeetCode
-
-<div>
-
-[![Your LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=narasimha_reddy_putta94&theme=dark)](https://leetcode.com/narasimha_reddy_putta94/)
-
-
-</div>
 
 ## 🛠️ Projects & Contributions
 
