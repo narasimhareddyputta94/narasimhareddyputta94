@@ -1,11 +1,7 @@
-
-
-  <h1>Hello, I'm Narasimha Reddy Putta! 🚀</h1>
-  <h3>Software Development Engineer | Java & Cloud Technologies Specialist</h3>
-  <p>MSc in Computer Science Candidate at DePaul University</p>
-  <p>Actively Seeking Opportunities in Software Development & Cloud Solutions</p>
-
-</div>
+<h1>Hello, I'm Narasimha Reddy Putta! 🚀</h1>
+<h3>Software Development Engineer | Java & Cloud Technologies Specialist</h3>
+<p>MSc in Computer Science Candidate at DePaul University</p>
+<p>Actively Seeking Opportunities in Software Development & Cloud Solutions</p>
 
 ---
 
@@ -40,6 +36,7 @@ My goal is to leverage my diverse skill set and experience to build innovative s
 ![](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![](https://img.shields.io/badge/Microservices-0078D7?style=flat-square&logo=microsoft&logoColor=white)
 ![](https://img.shields.io/badge/Cache-FFD700?style=flat-square&logo=caching&logoColor=white)
+![](https://img.shields.io/badge/OAuth-3B3B3B?style=flat-square&logo=oauth&logoColor=white)
 
 
 ## 🛠️ Projects & Contributions
@@ -47,7 +44,7 @@ My goal is to leverage my diverse skill set and experience to build innovative s
 I've always believed in the power of learning by doing. Here are a few projects I've contributed to:
 
 ### E-Commerce Application
-Designed and implemented a robust e-commerce platform featuring a comprehensive product catalog, user authentication, and a secure payment gateway. Leveraged Spring Boot for the backend services, Angular for the dynamic user interface, and SQL for data management. Utilized Kubernetes for deployment and scaling on AWS, ensuring high availability and fault tolerance. Integrated Kafka for real-time order processing and Elasticsearch for advanced search functionalities.
+Designed and implemented a robust e-commerce platform featuring a comprehensive product catalog, user authentication, and a secure payment gateway. Leveraged Spring Boot for the backend services, Angular for the dynamic user interface, and SQL for data management. Utilized Kubernetes for deployment and scaling on AWS, ensuring high availability and fault tolerance. Integrated Kafka for real-time order processing, Elasticsearch for advanced search functionalities, and OAuth for secure authentication.
 
 **Technologies:**  
 ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 
@@ -59,9 +56,10 @@ Designed and implemented a robust e-commerce platform featuring a comprehensive 
 ![](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![](https://img.shields.io/badge/Microservices-0078D7?style=flat-square&logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/OAuth-3B3B3B?style=flat-square&logo=oauth&logoColor=white)
 
 ### Enterprise Resource Planning (ERP) System
-Architected a comprehensive ERP solution to optimize and automate key business processes for a mid-sized manufacturing enterprise. Implemented backend services with Spring Boot and SQL, while the frontend was developed using React.js. Deployed the system on AWS using Docker and Kubernetes for scalable and secure operations. Employed a microservices architecture to enhance modularity and maintainability.
+Architected a comprehensive ERP solution to optimize and automate key business processes for a mid-sized manufacturing enterprise. Implemented backend services with Spring Boot and SQL, while the frontend was developed using React.js. Deployed the system on AWS using Docker and Kubernetes for scalable and secure operations. Employed a microservices architecture to enhance modularity and maintainability. Integrated OAuth for secure user authentication.
 
 **Technologies:**  
 ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 
@@ -72,9 +70,10 @@ Architected a comprehensive ERP solution to optimize and automate key business p
 ![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) 
 ![](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/Microservices-0078D7?style=flat-square&logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/OAuth-3B3B3B?style=flat-square&logo=oauth&logoColor=white)
 
 ### Inventory and Order Management System for Retail
-Developed a high-performance inventory and order management system tailored for retail businesses, enhancing inventory tracking, order fulfillment, and customer relationship management. Leveraged Spring Boot and Angular for the application stack, with real-time data processing via Kafka. Implemented Elasticsearch to provide fast and accurate search capabilities, ensuring seamless user experience.
+Developed a high-performance inventory and order management system tailored for retail businesses, enhancing inventory tracking, order fulfillment, and customer relationship management. Leveraged Spring Boot and Angular for the application stack, with real-time data processing via Kafka. Implemented Elasticsearch to provide fast and accurate search capabilities, ensuring seamless user experience. Integrated OAuth for secure authentication.
 
 **Technologies:**  
 ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 
@@ -86,9 +85,10 @@ Developed a high-performance inventory and order management system tailored for 
 ![](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![](https://img.shields.io/badge/Microservices-0078D7?style=flat-square&logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/OAuth-3B3B3B?style=flat-square&logo=oauth&logoColor=white)
 
 ### Online Banking System
-Engineered a secure and user-friendly online banking system, enabling customers to manage accounts, perform transactions, and pay bills through a web interface. Utilized Spring Boot for the backend services, Spring Security for robust authentication and authorization, and PostgreSQL for data management. Incorporated Kafka for real-time transaction processing and Elasticsearch for efficient query handling of transaction history.
+Engineered a secure and user-friendly online banking system, enabling customers to manage accounts, perform transactions, and pay bills through a web interface. Utilized Spring Boot for the backend services, Spring Security for robust authentication and authorization, and PostgreSQL for data management. Incorporated Kafka for real-time transaction processing and Elasticsearch for efficient query handling of transaction history. Integrated OAuth for secure authentication.
 
 **Technologies:**  
 ![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 
@@ -99,6 +99,7 @@ Engineered a secure and user-friendly online banking system, enabling customers 
 ![](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![](https://img.shields.io/badge/Microservices-0078D7?style=flat-square&logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/OAuth-3B3B3B?style=flat-square&logo=oauth&logoColor=white)
 
 ## 📬 Let's Connect
 
