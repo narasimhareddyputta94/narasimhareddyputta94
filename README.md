@@ -1,108 +1,110 @@
-<h1>Hello, I'm Narasimha Reddy Putta! 🚀</h1>
-<h3>Software Development Engineer | Java & Cloud Technologies Specialist</h3>
-<p>MSc in Computer Science Candidate at DePaul University</p>
-<p>Actively Seeking Opportunities in Software Development & Cloud Solutions</p>
+<!-- ✨ DARK MODE | NEON EDITION ✨ -->
+<h1 align="center" style="color:#00FFFF;">⚡ Hey, I'm <span style="color:#FFD700;">Narasimha Reddy Putta</span> 🚀</h1>
+<h3 align="center" style="color:#8A2BE2;">Software Development Engineer | Java • Cloud • Distributed Systems</h3>
+<p align="center" style="color:#C0C0C0;">
+  MSc in Computer Science @ DePaul University  
+  <br/>
+  <b>Actively Seeking Roles</b> — Software Engineering • Cloud Infrastructure • Backend Development
+</p>
 
 ---
 
-## 🌟 About Me
+## 🪄 About Me  
 
-Greetings! 👋 I'm Narasimha, a Software Development Engineer with a strong background in Java, Python, and JavaScript. Currently studying Computer Science at DePaul University, I am passionate about developing scalable server applications and optimizing cloud solutions. With 2.5 years of professional experience as a software development engineer in India and an academic foundation in civil engineering, I've made a transition to computer science, combining analytical skills with a deep understanding of software development.
+Hey there! I’m **Narasimha**, a **Software Development Engineer** who thrives at the intersection of *code, cloud, and creativity.*  
 
-My goal is to leverage my diverse skill set and experience to build innovative solutions that drive efficiency and value. Whether it's through developing high-performance backend systems or deploying robust cloud-based applications, I am dedicated to continuous learning and making impactful contributions.
+I design **scalable backend systems**, automate cloud deployments, and build microservices that don’t just run — they *fly*.  
+With a foundation in **Civil Engineering** and a pivot to **Computer Science**, I merge analytical precision with developer artistry.  
 
-## 🌐 Technical Proficiency
+💬 *I believe code is an architecture of thought — elegant, efficient, and engineered for impact.*
 
-**Languages & Frameworks:**  
-![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+---
 
-**Databases & Middleware:**  
-![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+## 💻 Tech Arsenal  
 
-**DevOps & Cloud Technologies:**  
-![](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+**Languages & Frameworks**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Other Technologies:**  
-![](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![](https://img.shields.io/badge/Microservices-0078D7?style=flat-square&logo=microsoft&logoColor=white)
-![](https://img.shields.io/badge/Cache-FFD700?style=flat-square&logo=caching&logoColor=white)
-![](https://img.shields.io/badge/OAuth-3B3B3B?style=flat-square&logo=oauth&logoColor=white)
+**Data & Messaging**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-111827?style=for-the-badge&logo=microsoft&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-3B3B3B?style=for-the-badge&logo=auth0&logoColor=white)
 
-## 🛠️ Projects & Contributions
+---
 
-I've always believed in the power of learning by doing. Here are a few projects I've contributed to:
+## 🚀 Featured Projects  
 
-### E-Commerce Application
-Designed and implemented a robust e-commerce platform featuring a comprehensive product catalog, user authentication, and a secure payment gateway. Leveraged Spring Boot for the backend services, Angular for the dynamic user interface, and SQL for data management. Utilized Kubernetes for deployment and scaling on AWS, ensuring high availability and fault tolerance. Integrated Kafka for real-time order processing, Elasticsearch for advanced search functionalities, and OAuth for secure authentication.
+### 🛒 **E-Commerce Cloud Suite**
+A full-stack e-commerce system with **Spring Boot microservices**, **Angular**, and **AWS ECS**.  
+Real-time order streams via **Kafka**, full-text search with **Elasticsearch**, and container orchestration via **Kubernetes**.  
+**Result:** 40 % faster load times & zero downtime deploys.  
 
-**Technologies:**  
-![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 
-![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
-![](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) 
-![](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white) 
-![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) 
-![](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![](https://img.shields.io/badge/Microservices-0078D7?style=flat-square&logo=microsoft&logoColor=white)
-![](https://img.shields.io/badge/OAuth-3B3B3B?style=flat-square&logo=oauth&logoColor=white)
+🧩 *Tech:* Java · Spring Boot · Angular · Kafka · K8s · AWS · OAuth2  
 
-### Enterprise Resource Planning (ERP) System
-Architected a comprehensive ERP solution to optimize and automate key business processes for a mid-sized manufacturing enterprise. Implemented backend services with Spring Boot and SQL, while the frontend was developed using React.js. Deployed the system on AWS using Docker and Kubernetes for scalable and secure operations. Employed a microservices architecture to enhance modularity and maintainability. Integrated OAuth for secure user authentication.
+---
 
-**Technologies:**  
-![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 
-![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
-![](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) 
-![](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white) 
-![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
-![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) 
-![](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![](https://img.shields.io/badge/Microservices-0078D7?style=flat-square&logo=microsoft&logoColor=white)
-![](https://img.shields.io/badge/OAuth-3B3B3B?style=flat-square&logo=oauth&logoColor=white)
+### 🏭 **ERP for Manufacturing**
+Architected modular ERP to automate HR, inventory, and finance.  
+Deployed on **AWS EKS** with **Docker**, and scaled using **Kubernetes HPA**.  
 
-### Inventory and Order Management System for Retail
-Developed a high-performance inventory and order management system tailored for retail businesses, enhancing inventory tracking, order fulfillment, and customer relationship management. Leveraged Spring Boot and Angular for the application stack, with real-time data processing via Kafka. Implemented Elasticsearch to provide fast and accurate search capabilities, ensuring seamless user experience. Integrated OAuth for secure authentication.
+🧩 *Tech:* Spring Boot · React · PostgreSQL · Microservices · OAuth2  
 
-**Technologies:**  
-![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 
-![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
-![](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) 
-![](https://img.shields.io/badge/Spring_Data-6DB33F?style=flat-square&logo=spring&logoColor=white) 
-![](https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white) 
-![](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![](https://img.shields.io/badge/Microservices-0078D7?style=flat-square&logo=microsoft&logoColor=white)
-![](https://img.shields.io/badge/OAuth-3B3B3B?style=flat-square&logo=oauth&logoColor=white)
+---
 
-### Online Banking System
-Engineered a secure and user-friendly online banking system, enabling customers to manage accounts, perform transactions, and pay bills through a web interface. Utilized Spring Boot for the backend services, Spring Security for robust authentication and authorization, and PostgreSQL for data management. Incorporated Kafka for real-time transaction processing and Elasticsearch for efficient query handling of transaction history. Integrated OAuth for secure authentication.
+### 📦 **Inventory + Order Management**
+Built an inventory engine with **Spring Data** and **Kafka** for instant updates.  
+Enhanced UX with **Elasticsearch** and Angular analytics dashboards.  
 
-**Technologies:**  
-![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) 
-![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
-![](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white) 
-![](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring&logoColor=white) 
-![](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![](https://img.shields.io/badge/Microservices-0078D7?style=flat-square&logo=microsoft&logoColor=white)
-![](https://img.shields.io/badge/OAuth-3B3B3B?style=flat-square&logo=oauth&logoColor=white)
+🧩 *Tech:* Java · Angular · Kafka · MySQL · Elasticsearch  
 
-## 📬 Let's Connect
+---
 
-[![](https://img.shields.io/badge/LinkedIn-Narasimha%20Reddy%20Putta-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/narasimhareddy94/)
-[![](https://img.shields.io/badge/GitHub-narasimhareddyputta94-lightgrey?style=for-the-badge&logo=github)](https://github.com/narasimhareddyputta94)
-[![](https://img.shields.io/badge/Instagram-Narasimha%20Reddy-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/full_stack_guy/)
+### 🏦 **Online Banking System**
+Developed secure banking portal with **Spring Security**, **OAuth 2.0**, and **Kafka** transaction streaming.  
+**Result:** Robust, audit-ready, and real-time banking for digital clients.  
+
+🧩 *Tech:* Spring Boot · PostgreSQL · Kafka · Spring Security · OAuth2  
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=narasimhareddyputta94&theme=tokyonight&hide_border=true" alt="streak-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narasimhareddyputta94&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/narasimhareddy94/">
+    <img src="https://img.shields.io/badge/LinkedIn-Narasimha%20Reddy%20Putta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/narasimhareddyputta94">
+    <img src="https://img.shields.io/badge/GitHub-narasimhareddyputta94-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.instagram.com/full_stack_guy/">
+    <img src="https://img.shields.io/badge/Instagram-@full__stack__guy-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center" style="color:#00FFFF;">“Build Bold · Deploy Smart · Scale Infinite”</h3>
+<p align="center" style="color:#FFD700;">⭐ If you like my work, star my repos to keep the energy alive! ⭐</p>
