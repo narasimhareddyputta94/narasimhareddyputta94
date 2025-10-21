@@ -1,127 +1,393 @@
-<!-- 🖤 PROFESSIONAL DARK PORTFOLIO MODE -->
-<div align="center">
+"use client";
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Narasimha+Reddy+Putta;Software+Development+Engineer+%7C+Java+%26+Cloud+Specialist;Building+Scalable+Systems+for+a+Connected+World;Turning+Complexity+Into+Elegant+Solutions" alt="Typing Intro" />
+import { useEffect, useRef } from "react";
+import Link from "next/link";
 
-</div>
+// ------------------------------------------------------
+// Drop this file into: app/page.tsx (Next.js App Router)
+// Tailwind required. Optional: shadcn/ui not required.
+// ------------------------------------------------------
 
----
+export default function PortfolioPage() {
+  return (
+    <main className="min-h-screen bg-[#0B0F14] text-slate-200 antialiased">
+      <Hero />
+      <Tech />
+      <Projects />
+      <Strengths />
+      <Stats />
+      <Contact />
+      <Footer />
+    </main>
+  );
+}
 
-### About Me  
+// -------------------- Hero ----------------------------
+function Hero() {
+  return (
+    <section className="relative overflow-hidden">
+      {/* gradient backdrop */}
+      <div className="pointer-events-none absolute inset-0 -z-10">
+        <div className="absolute -top-40 left-1/2 h-[44rem] w-[44rem] -translate-x-1/2 rounded-full bg-[radial-gradient(circle_at_center,rgba(0,255,255,0.15),transparent_60%)] blur-3xl" />
+        <div className="absolute bottom-0 left-0 right-0 mx-auto h-[20rem] w-full bg-[linear-gradient(to_top,rgba(11,15,20,1),rgba(11,15,20,0))]" />
+      </div>
 
-I’m **Narasimha Reddy Putta**, a **Software Development Engineer** passionate about crafting scalable backend systems and cloud-native applications that power real-world impact.  
+      <div className="mx-auto max-w-6xl px-5 pb-16 pt-28 md:pt-32">
+        <div className="flex flex-col items-center text-center">
+          <h1 className="text-3xl font-semibold tracking-tight text-cyan-300 md:text-5xl">
+            Narasimha Reddy Putta
+          </h1>
+          <p className="mt-3 text-lg text-slate-300 md:text-xl">
+            Software Development Engineer — Java, Cloud & Distributed Systems
+          </p>
+          <Typer
+            lines={[
+              "Building scalable backend systems and cloud‑native apps",
+              "Turning complexity into elegant, production‑ready solutions",
+              "MSc Computer Science @ DePaul University, Chicago",
+            ]}
+          />
 
-Currently pursuing my **MSc in Computer Science at DePaul University (Chicago)**, I combine **2.5 years of professional experience** in enterprise software with a deep focus on **Java, distributed systems, and AWS**.  
+        <div className="mt-8 flex flex-wrap items-center justify-center gap-3">
+            <CTA href="https://www.linkedin.com/in/narasimhareddy94/" label="LinkedIn" />
+            <CTA href="https://github.com/narasimhareddyputta94" label="GitHub" variant="ghost" />
+            <CTA href="mailto:narasimhareddyputta94@gmail.com" label="Email" variant="ghost" />
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
 
-I’m driven by clarity and precision — writing software that is performant, maintainable, and forward-thinking. My engineering philosophy is simple: build systems that scale, secure, and self-heal.
+// Simple typewriter without external deps
+function Typer({ lines }: { lines: string[] }) {
+  const spanRef = useRef<HTMLSpanElement>(null);
+  useEffect(() => {
+    const el = spanRef.current;
+    if (!el) return;
 
-> “Great software is invisible — it simply works.”
+    let i = 0; // which line
+    let j = 0; // char index
+    let deleting = false;
 
----
+    const tick = () => {
+      const current = lines[i] ?? "";
+      const visible = deleting ? current.slice(0, j--) : current.slice(0, j++);
+      el.textContent = visible;
 
-## Technical Expertise  
+      const atEnd = j >= current.length;
+      const atStart = j <= 0;
 
-### Core Stack  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+      let delay = deleting ? 18 : 32; // typing speed
+      if (atEnd) {
+        delay = 1400; // pause on full line
+        deleting = true;
+      } else if (atStart && deleting) {
+        deleting = false;
+        i = (i + 1) % lines.length;
+        delay = 300;
+      }
+      timer = window.setTimeout(tick, delay);
+    };
 
-### Data & Middleware  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+    let timer = window.setTimeout(tick, 300);
+    return () => window.clearTimeout(timer);
+  }, [lines]);
 
-### Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-111827?style=for-the-badge&logo=gitlab&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-3B3B3B?style=for-the-badge&logo=auth0&logoColor=white)
+  return (
+    <p className="mt-6 max-w-3xl text-balance text-center text-slate-400">
+      <span ref={spanRef} className="border-r border-cyan-400 pr-1" />
+    </p>
+  );
+}
 
----
+function CTA({
+  href,
+  label,
+  variant = "solid",
+}: {
+  href: string;
+  label: string;
+  variant?: "solid" | "ghost";
+}) {
+  return (
+    <Link
+      href={href}
+      className={
+        variant === "solid"
+          ? "rounded-2xl bg-cyan-400/10 px-4 py-2 text-cyan-300 ring-1 ring-cyan-400/40 transition hover:bg-cyan-400/20"
+          : "rounded-2xl px-4 py-2 text-slate-300 ring-1 ring-slate-600/60 transition hover:bg-white/5"
+      }
+    >
+      {label}
+    </Link>
+  );
+}
 
-## Featured Projects  
+// -------------------- Tech ----------------------------
+function Tech() {
+  return (
+    <section className="mx-auto max-w-6xl px-5 py-12">
+      <h2 className="text-xl font-semibold text-slate-100 md:text-2xl">Technical Expertise</h2>
 
-### E-Commerce Cloud Suite  
-A full-stack commerce platform built with **Spring Boot microservices**, **Angular**, and **AWS ECS**.  
-Implemented event-driven architecture using **Kafka** and **Elasticsearch** for real-time search and analytics.  
-**Impact:** 40% faster checkout process and zero-downtime CI/CD releases.
+      <div className="mt-6 grid gap-6 md:grid-cols-3">
+        <Card title="Core Stack" subtitle="Languages & Frameworks">
+          <Badge src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+          <Badge src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+          <Badge src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+          <Badge src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+          <Badge src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+          <Badge src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+        </Card>
 
-**Tech:** Java · Spring Boot · Angular · Kafka · AWS · Kubernetes · OAuth2  
+        <Card title="Data & Middleware" subtitle="Storage, Search & Streams">
+          <Badge src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+          <Badge src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+          <Badge src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+          <Badge src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+          <Badge src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+          <Badge src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+        </Card>
 
----
+        <Card title="Cloud & DevOps" subtitle="Infra, Containers & CI/CD">
+          <Badge src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+          <Badge src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+          <Badge src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+          <Badge src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+          <Badge src="https://img.shields.io/badge/CI%2FCD-Pipelines-111827?style=for-the-badge&logo=gitlab&logoColor=white" alt="CI/CD" />
+          <Badge src="https://img.shields.io/badge/OAuth2-3B3B3B?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth2" />
+        </Card>
+      </div>
+    </section>
+  );
+}
 
-### Enterprise Resource Planning (ERP)  
-Modular ERP system designed for mid-sized enterprises to automate HR, inventory, and financial workflows.  
-Deployed on **AWS EKS** using **Docker & Kubernetes**, improving performance and scalability.  
-**Impact:** Reduced manual operations by 30% through microservice automation.
+function Card({
+  title,
+  subtitle,
+  children,
+}: {
+  title: string;
+  subtitle?: string;
+  children: React.ReactNode;
+}) {
+  return (
+    <div className="rounded-2xl border border-white/10 bg-white/5 p-5 shadow-[0_0_1px_0_rgba(255,255,255,0.15)]">
+      <div className="mb-4">
+        <h3 className="text-lg font-medium text-slate-100">{title}</h3>
+        {subtitle ? (
+          <p className="text-sm text-slate-400">{subtitle}</p>
+        ) : null}
+      </div>
+      <div className="flex flex-wrap gap-2">{children}</div>
+    </div>
+  );
+}
 
-**Tech:** Java · React · PostgreSQL · Docker · AWS  
+function Badge({ src, alt }: { src: string; alt: string }) {
+  return (
+    // eslint-disable-next-line @next/next/no-img-element
+    <img src={src} alt={alt} className="h-8 select-none rounded-md" />
+  );
+}
 
----
+// -------------------- Projects ------------------------
+function Projects() {
+  const data: Project[] = [
+    {
+      title: "E‑Commerce Cloud Suite",
+      impact:
+        "40% faster checkout and zero‑downtime releases with event‑driven microservices and Elasticsearch search.",
+      bullets: [
+        "Spring Boot services on AWS ECS/EKS; Kafka for order/event streams",
+        "Elasticsearch for full‑text search & analytics",
+        "Kubernetes for autoscaling and resilience",
+      ],
+      stack: "Java · Spring Boot · Angular · Kafka · AWS · Kubernetes · OAuth2",
+    },
+    {
+      title: "Enterprise Resource Planning (ERP)",
+      impact:
+        "Reduced manual ops by 30% through modular microservices and automation across HR, inventory, and finance.",
+      bullets: [
+        "Deployed on AWS EKS with Docker; HPA for horizontal scaling",
+        "Optimized SQL and caching for faster workflows",
+        "Role‑based access control with OAuth2",
+      ],
+      stack: "Java · React · PostgreSQL · Docker · AWS",
+    },
+    {
+      title: "Inventory & Order Management System",
+      impact:
+        "Sub‑second query performance and real‑time stock accuracy across branches.",
+      bullets: [
+        "Kafka streams for live synchronization",
+        "Elasticsearch indices for instant lookups",
+        "Angular dashboards for trends and SLAs",
+      ],
+      stack: "Java · Angular · Kafka · MySQL · Elasticsearch",
+    },
+    {
+      title: "Online Banking System",
+      impact:
+        "Lowered transaction latency by 25% with optimized indexing and async pipelines.",
+      bullets: [
+        "Spring Security + OAuth2 with MFA",
+        "Kafka for immutable audit logs",
+        "PostgreSQL for ACID transactions",
+      ],
+      stack: "Java · Spring Boot · PostgreSQL · Kafka · Spring Security",
+    },
+  ];
 
-### Inventory & Order Management System  
-Built a high-performance inventory and fulfillment system using **Spring Boot**, **Kafka**, and **Elasticsearch**.  
-Enabled real-time tracking, vendor synchronization, and trend analytics.  
-**Impact:** Achieved full operational transparency with sub-second data indexing.
+  return (
+    <section className="mx-auto max-w-6xl px-5 py-12">
+      <div className="mb-6 flex items-end justify-between">
+        <h2 className="text-xl font-semibold text-slate-100 md:text-2xl">Featured Projects</h2>
+        <Link
+          href="https://github.com/narasimhareddyputta94"
+          className="text-sm text-cyan-300 underline underline-offset-4 hover:text-cyan-200"
+        >
+          View GitHub
+        </Link>
+      </div>
 
-**Tech:** Java · Angular · Kafka · MySQL · Elasticsearch  
+      <div className="grid gap-6 md:grid-cols-2">
+        {data.map((p) => (
+          <ProjectCard key={p.title} {...p} />
+        ))}
+      </div>
+    </section>
+  );
+}
 
----
+type Project = {
+  title: string;
+  impact: string;
+  bullets: string[];
+  stack: string;
+};
 
-### Online Banking System  
-Developed a secure, production-grade banking portal using **Spring Security**, **OAuth 2.0**, and **Kafka** transaction streaming.  
-Designed for real-time transfers, robust audit trails, and multi-factor authentication.  
-**Impact:** Improved data consistency and reduced transaction latency by 25%.
+function ProjectCard({ title, impact, bullets, stack }: Project) {
+  return (
+    <article className="group rounded-2xl border border-white/10 bg-gradient-to-b from-white/5 to-white/0 p-6 transition hover:border-cyan-400/40">
+      <h3 className="text-lg font-medium text-slate-100">{title}</h3>
+      <p className="mt-2 text-sm text-slate-400">{impact}</p>
+      <ul className="mt-4 list-disc space-y-1 pl-5 text-sm text-slate-300">
+        {bullets.map((b) => (
+          <li key={b}>{b}</li>
+        ))}
+      </ul>
+      <p className="mt-4 text-xs tracking-wide text-slate-400">{stack}</p>
+    </article>
+  );
+}
 
-**Tech:** Java · Spring Boot · PostgreSQL · Kafka · Spring Security  
+// -------------------- Strengths -----------------------
+function Strengths() {
+  const items = [
+    {
+      title: "Backend Engineering",
+      desc: "RESTful APIs, Spring Boot microservices, async processing with Kafka",
+    },
+    {
+      title: "System Design",
+      desc: "Event‑driven architectures, fault tolerance, observability, scalability",
+    },
+    {
+      title: "Cloud Infrastructure",
+      desc: "AWS EC2/EKS/S3, containerization, GitHub Actions CI/CD",
+    },
+    {
+      title: "Data Management",
+      desc: "Relational & NoSQL modeling, indexing, caching, Elasticsearch",
+    },
+    { title: "Security", desc: "OAuth2, JWT, RBAC, secure API design" },
+    { title: "Collaboration", desc: "Agile, documentation, mentorship" },
+  ];
 
----
+  return (
+    <section className="mx-auto max-w-6xl px-5 py-12">
+      <h2 className="text-xl font-semibold text-slate-100 md:text-2xl">Core Strengths</h2>
+      <div className="mt-6 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+        {items.map((s) => (
+          <div
+            key={s.title}
+            className="rounded-2xl border border-white/10 bg-white/5 p-5"
+          >
+            <h3 className="text-base font-medium text-slate-100">{s.title}</h3>
+            <p className="mt-1 text-sm text-slate-400">{s.desc}</p>
+          </div>
+        ))}
+      </div>
+    </section>
+  );
+}
 
-## GitHub Analytics  
+// -------------------- Stats ---------------------------
+function Stats() {
+  return (
+    <section className="mx-auto max-w-6xl px-5 py-12">
+      <h2 className="text-xl font-semibold text-slate-100 md:text-2xl">GitHub Analytics</h2>
+      <div className="mt-6 grid gap-6 md:grid-cols-2">
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com?user=narasimhareddyputta94&theme=tokyonight&hide_border=true"
+          alt="GitHub Streak"
+          className="w-full rounded-2xl border border-white/10 bg-white/5 p-3"
+        />
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=narasimhareddyputta94&layout=compact&theme=tokyonight&hide_border=true"
+          alt="Top Languages"
+          className="w-full rounded-2xl border border-white/10 bg-white/5 p-3"
+        />
+      </div>
+    </section>
+  );
+}
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=narasimhareddyputta94&theme=tokyonight&hide_border=true" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narasimhareddyputta94&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
-</p>
+// -------------------- Contact ------------------------
+function Contact() {
+  return (
+    <section className="mx-auto max-w-6xl px-5 py-14">
+      <div className="rounded-3xl border border-cyan-400/30 bg-gradient-to-b from-cyan-400/10 to-transparent p-8 text-center">
+        <h2 className="text-2xl font-semibold text-cyan-300 md:text-3xl">
+          Let’s connect
+        </h2>
+        <p className="mx-auto mt-2 max-w-2xl text-slate-300">
+          I’m actively seeking opportunities in Software Engineering and Cloud Solutions. If my work resonates, reach out — I’d love to collaborate.
+        </p>
+        <div className="mt-6 flex flex-wrap items-center justify-center gap-3">
+          <CTA href="mailto:narasimhareddyputta94@gmail.com" label="Email" />
+          <CTA href="https://www.linkedin.com/in/narasimhareddy94/" label="LinkedIn" variant="ghost" />
+          <CTA href="https://github.com/narasimhareddyputta94" label="GitHub" variant="ghost" />
+        </div>
+      </div>
+    </section>
+  );
+}
 
----
-
-## Core Strengths  
-
-- **Backend Engineering:** RESTful APIs, Spring Boot services, async event handling with Kafka  
-- **System Design:** Scalable, modular, and fault-tolerant architectures  
-- **Cloud Infrastructure:** AWS EC2, EKS, S3, CloudFormation, containerization  
-- **Data Management:** Optimized SQL/NoSQL modeling, indexing, and caching  
-- **Security:** OAuth2, JWT, access control, encryption best practices  
-- **Team Culture:** Agile, cross-functional collaboration, technical mentorship  
-
----
-
-## Connect  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/narasimhareddy94/">
-    <img src="https://img.shields.io/badge/LinkedIn-Narasimha%20Reddy%20Putta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/narasimhareddyputta94">
-    <img src="https://img.shields.io/badge/GitHub-narasimhareddyputta94-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:narasimhareddyputta94@gmail.com">
-    <img src="https://img.shields.io/badge/Email-narasimhareddyputta94%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/full_stack_guy/">
-    <img src="https://img.shields.io/badge/Instagram-@full__stack__guy-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<h3 align="center" style="color:#00FFFF;">Build Bold · Deploy Smart · Scale Infinite</h3>
+// -------------------- Footer -------------------------
+function Footer() {
+  return (
+    <footer className="border-t border-white/10 py-8">
+      <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-2 px-5 text-sm text-slate-400 md:flex-row">
+        <p>
+          © {new Date().getFullYear()} Narasimha Reddy Putta • Built with Next.js & Tailwind
+        </p>
+        <nav className="flex items-center gap-5">
+          <Link href="#" className="hover:text-slate-200">
+            Resume (add link)
+          </Link>
+          <Link href="https://www.linkedin.com/in/narasimhareddy94/" className="hover:text-slate-200">
+            LinkedIn
+          </Link>
+          <Link href="mailto:narasimhareddyputta94@gmail.com" className="hover:text-slate-200">
+            Email
+          </Link>
+        </nav>
+      </div>
+    </footer>
+  );
+}
