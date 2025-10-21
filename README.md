@@ -1,27 +1,27 @@
-<!-- 🌌 PROFESSIONAL PORTFOLIO MODE README -->
+<!-- 🖤 PROFESSIONAL DARK PORTFOLIO MODE -->
 <div align="center">
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Narasimha+Reddy+Putta!+🚀;Software+Development+Engineer+%7C+Java+%26+Cloud+Specialist;Building+Scalable+Systems+for+a+Connected+World+🌐;Turning+Ideas+Into+Production+Ready+Code+💻" alt="Typing SVG" />
-  
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Narasimha+Reddy+Putta;Software+Development+Engineer+%7C+Java+%26+Cloud+Specialist;Building+Scalable+Systems+for+a+Connected+World;Turning+Complexity+Into+Elegant+Solutions" alt="Typing Intro" />
+
 </div>
 
 ---
 
-### 🌍 About Me  
+### About Me  
 
-Hi, I’m **Narasimha Reddy Putta** — a **Software Development Engineer** who lives where clean code meets cloud innovation.  
-Currently pursuing my **MSc in Computer Science at DePaul University (Chicago)**, I bring **2.5 years of professional experience** in Java-based enterprise development, plus a growing focus on **distributed systems, DevOps, and AWS infrastructure**.
+I’m **Narasimha Reddy Putta**, a **Software Development Engineer** passionate about crafting scalable backend systems and cloud-native applications that power real-world impact.  
 
-I love crafting systems that are scalable, maintainable, and beautifully structured — because great software should *just work* and *look elegant doing it*.
+Currently pursuing my **MSc in Computer Science at DePaul University (Chicago)**, I combine **2.5 years of professional experience** in enterprise software with a deep focus on **Java, distributed systems, and AWS**.  
 
-> “Strong architecture is invisible — it’s when everything runs smooth and nobody notices.”
+I’m driven by clarity and precision — writing software that is performant, maintainable, and forward-thinking. My engineering philosophy is simple: build systems that scale, secure, and self-heal.
+
+> “Great software is invisible — it simply works.”
 
 ---
 
-## ⚙️ Technical Expertise  
+## Technical Expertise  
 
-### 💻 Core Stack  
-**Languages & Frameworks**  
+### Core Stack  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,7 +29,7 @@ I love crafting systems that are scalable, maintainable, and beautifully structu
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🗄️ Data & Middleware  
+### Data & Middleware  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -37,7 +37,7 @@ I love crafting systems that are scalable, maintainable, and beautifully structu
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### ☁️ Cloud & DevOps  
+### Cloud & DevOps  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -47,59 +47,65 @@ I love crafting systems that are scalable, maintainable, and beautifully structu
 
 ---
 
-## 🚀 Highlight Projects  
+## Featured Projects  
 
-### 🛒 **E-Commerce Cloud Suite**
-Built a complete cloud-native commerce platform with **Spring Boot**, **Angular**, **Kafka**, and **AWS ECS**.  
-Enabled real-time order events, full-text search with Elasticsearch, and containerized deployments.  
-> Achieved 40 % faster transaction processing and zero-downtime CI/CD releases.
+### E-Commerce Cloud Suite  
+A full-stack commerce platform built with **Spring Boot microservices**, **Angular**, and **AWS ECS**.  
+Implemented event-driven architecture using **Kafka** and **Elasticsearch** for real-time search and analytics.  
+**Impact:** 40% faster checkout process and zero-downtime CI/CD releases.
 
----
-
-### 🏭 **Enterprise Resource Planning (ERP)**
-Modular ERP for mid-size enterprises — automating HR, inventory, and finance modules.  
-Deployed on **AWS EKS** using **Docker + Kubernetes** for horizontal scaling and resilience.  
-> Cut manual processing time by 30 % via intelligent job scheduling and caching layers.
+**Tech:** Java · Spring Boot · Angular · Kafka · AWS · Kubernetes · OAuth2  
 
 ---
 
-### 📦 **Inventory & Order Management**
-Engineered multi-tenant inventory engine with live Kafka streams and real-time analytics dashboards.  
-> Integrated Elasticsearch for sub-second query performance and trend analysis.
+### Enterprise Resource Planning (ERP)  
+Modular ERP system designed for mid-sized enterprises to automate HR, inventory, and financial workflows.  
+Deployed on **AWS EKS** using **Docker & Kubernetes**, improving performance and scalability.  
+**Impact:** Reduced manual operations by 30% through microservice automation.
+
+**Tech:** Java · React · PostgreSQL · Docker · AWS  
 
 ---
 
-### 🏦 **Online Banking System**
-Secure digital banking portal using **Spring Security**, **OAuth 2.0**, and **Kafka** transaction streams.  
-> Implemented audit-ready logging, encrypted session storage, and distributed transaction flow.
+### Inventory & Order Management System  
+Built a high-performance inventory and fulfillment system using **Spring Boot**, **Kafka**, and **Elasticsearch**.  
+Enabled real-time tracking, vendor synchronization, and trend analytics.  
+**Impact:** Achieved full operational transparency with sub-second data indexing.
+
+**Tech:** Java · Angular · Kafka · MySQL · Elasticsearch  
 
 ---
 
-## 📊 GitHub Activity  
+### Online Banking System  
+Developed a secure, production-grade banking portal using **Spring Security**, **OAuth 2.0**, and **Kafka** transaction streaming.  
+Designed for real-time transfers, robust audit trails, and multi-factor authentication.  
+**Impact:** Improved data consistency and reduced transaction latency by 25%.
+
+**Tech:** Java · Spring Boot · PostgreSQL · Kafka · Spring Security  
+
+---
+
+## GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=narasimhareddyputta94&theme=tokyonight&hide_border=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narasimhareddyputta94&layout=compact&theme=tokyonight&hide_border=true" width="380"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=narasimhareddyputta94&theme=onedark&no-frame=true&margin-w=10&margin-h=10" width="800"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=narasimhareddyputta94&theme=tokyonight&hide_border=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narasimhareddyputta94&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
 </p>
 
 ---
 
-## 🧠 My Strengths  
+## Core Strengths  
 
-- **Backend Engineering:** REST APIs, Spring Boot microservices, async processing with Kafka  
-- **System Architecture:** Event-driven systems, fault-tolerant cloud deployments, scalability  
-- **Cloud & DevOps:** AWS EC2 | EKS | S3, containerization, GitHub Actions CI/CD  
-- **Data Design:** SQL & NoSQL schema optimization, caching, Elasticsearch indexing  
-- **Security:** OAuth2, JWT, RBAC, encryption, and secure API design  
-- **Culture:** Agile, pair programming, documentation, and mentorship  
+- **Backend Engineering:** RESTful APIs, Spring Boot services, async event handling with Kafka  
+- **System Design:** Scalable, modular, and fault-tolerant architectures  
+- **Cloud Infrastructure:** AWS EC2, EKS, S3, CloudFormation, containerization  
+- **Data Management:** Optimized SQL/NoSQL modeling, indexing, and caching  
+- **Security:** OAuth2, JWT, access control, encryption best practices  
+- **Team Culture:** Agile, cross-functional collaboration, technical mentorship  
 
 ---
 
-## 🌐 Let’s Connect  
+## Connect  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/narasimhareddy94/">
@@ -118,6 +124,4 @@ Secure digital banking portal using **Spring Security**, **OAuth 2.0**, and **Ka
 
 ---
 
-<h3 align="center" style="color:#00FFFF;">“Build Bold · Deploy Smart · Scale Infinite”</h3>
-<p align="center" style="color:#FFD700;">⭐ Star a repo that inspired you — and let’s build something legendary. ⭐</p>
-
+<h3 align="center" style="color:#00FFFF;">Build Bold · Deploy Smart · Scale Infinite</h3>
