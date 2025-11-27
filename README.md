@@ -1,123 +1,119 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Narasimha+Reddy+Putta;Software+Development+Engineer+%7C+Java+%26+Cloud+Specialist;Building+Scalable+Systems+for+a+Connected+World;Turning+Complexity+Into+Elegant+Solutions" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=System.out.println(%22Hello+World!%22)%3B;I+Engineer+Scalable+Cloud+Architectures.;Java+Specialist+%7C+Distributed+Systems+%7C+AWS;Turning+Complexity+Into+Elegant+Solutions." alt="Typing Intro" />
+</div>
+
+<div align="center">
+  
+  <a href="https://github.com/narasimhareddyputta94">
+    <img src="https://komarev.com/ghpvc/?username=narasimhareddyputta94&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+  
 </div>
 
 ---
 
-### About Me
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> The Architect's Profile
 
-I’m **Narasimha Reddy Putta**, a **Software Development Engineer** focused on building scalable backend systems and cloud-native applications that deliver measurable impact.
+I am **Narasimha Reddy Putta**, a **Software Development Engineer** driven by the challenge of scale. Currently optimizing my craft with an **MSc in Computer Science at DePaul University**, I combine **2.5 years of enterprise rigor** with modern cloud-native methodologies.
 
-Currently pursuing my **MSc in Computer Science at DePaul University (Chicago)**, I bring **2.5 years of professional experience** in enterprise software engineering with expertise in **Java, distributed systems, and AWS**.
+I don't just write code; I design ecosystems. My focus is on high-availability backend systems, event-driven architectures, and microservices that survive production spikes.
 
-My engineering approach blends precision and performance — writing code that’s efficient, modular, and production-ready.
-
-> “Great software isn’t complicated; it’s carefully crafted.”
+> ❝ **Precision represents the difference between a system that works and a system that scales.** ❞
 
 ---
 
-## Technical Expertise
+### <img src="https://media.giphy.com/media/iTWrO8Yt9qvaXUuW9n/giphy.gif" width="35"> Technical Arsenal
 
-### Core Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="Spring" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+      <br>Docker
+    </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kafka" width="65" height="65" alt="Kafka" />
+      <br>Kafka
+    </td>
+  </tr>
+</table>
 
-### Data & Middleware
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-111827?style=for-the-badge&logo=gitlab&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-3B3B3B?style=for-the-badge&logo=auth0&logoColor=white)
-
----
-
-## Featured Projects
-
-### E-Commerce Cloud Suite
-Built an event-driven commerce platform with **Spring Boot**, **Angular**, **Kafka**, and **AWS ECS**.
-Enabled real-time processing and full-text search via **Elasticsearch**, deployed with Kubernetes autoscaling.
-**Impact:** 40% faster checkout flow and zero-downtime updates.
-
-**Stack:** Java · Spring Boot · Angular · Kafka · AWS · Kubernetes · OAuth2
-
----
-
-### Enterprise Resource Planning (ERP)
-Developed a modular ERP system to automate HR, inventory, and financial workflows for mid-sized enterprises.
-Deployed on **AWS EKS** using **Docker & Kubernetes**, enabling horizontal scalability.
-**Impact:** Reduced manual operations by 30% through microservice orchestration.
-
-**Stack:** Java · React · PostgreSQL · Docker · AWS
-
----
-
-### Inventory & Order Management System
-Created a distributed inventory engine with **Kafka** and **Elasticsearch** for real-time analytics and synchronization.
-**Impact:** Delivered sub-second search and unified stock tracking across branches.
-
-**Stack:** Java · Angular · Kafka · MySQL · Elasticsearch
+<details>
+  <summary><b>View Full Tech Stack Details</b></summary>
+  <br />
+  
+  **Backend & Languages:** Java, Python, Node.js  
+  **Frameworks:** Spring Boot, Spring Security, Angular, React  
+  **Data:** PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch  
+  **DevOps & Cloud:** AWS (EC2, EKS, S3), Kubernetes, Docker, GitHub Actions, CI/CD  
+  **Security:** OAuth2, JWT, SSL/TLS Encryption
+</details>
 
 ---
 
-### Online Banking System
-Developed a secure banking platform using **Spring Security**, **OAuth2**, and **Kafka**.
-Optimized for reliability and latency with PostgreSQL transaction management.
-**Impact:** 25% faster transactions and complete audit readiness.
+### <img src="https://media.giphy.com/media/QssGEmpjCS4uGy7wbM/giphy.gif" width="35"> Engineering Impact
 
-**Stack:** Java · Spring Boot · PostgreSQL · Kafka · Spring Security
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=narasimhareddyputta94&theme=tokyonight&hide_border=true" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narasimhareddyputta94&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
-</p>
+| Project | Tech Stack | The Impact |
+| :--- | :--- | :--- |
+| **🛒 E-Commerce Cloud Suite** | `Spring Boot` `Kafka` `AWS ECS` | **40% faster checkout** via event-driven architecture and **Zero-Downtime** deployment strategies. |
+| **🏢 Enterprise ERP** | `Java` `PostgreSQL` `K8s` | Orchestrated microservices to **reduce manual HR/Finance ops by 30%**; implemented horizontal scaling. |
+| **📦 Distributed Inventory** | `Elasticsearch` `Kafka` `Angular` | Achieved **Sub-second search latency** across distributed branches using real-time sync. |
+| **🏦 Secure Banking Core** | `Spring Security` `OAuth2` | Optimized transaction management for **25% lower latency** and full audit compliance. |
 
 ---
 
-## Core Strengths
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> GitHub Performance
 
-- **Backend Engineering:** RESTful APIs, microservices, async processing with Kafka
-- **System Design:** Event-driven architectures, scalability, high availability
-- **Cloud Infrastructure:** AWS EC2/EKS/S3, containerization, CI/CD pipelines
-- **Data Management:** SQL/NoSQL schema optimization, caching, indexing
-- **Security:** OAuth2, JWT, encryption, secure API design
-- **Team Culture:** Agile development, documentation, mentorship
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=narasimhareddyputta94&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narasimhareddyputta94&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14" height="160" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=narasimhareddyputta94&theme=tokyonight&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="streak graph" />
+</div>
 
 ---
 
-## Connect
+### <img src="https://media.giphy.com/media/hS4GKg98p7u6tGgX9e/giphy.gif" width="35"> Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/narasimhareddy94/">
-    <img src="https://img.shields.io/badge/LinkedIn-Narasimha%20Reddy%20Putta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/narasimhareddyputta94">
-    <img src="https://img.shields.io/badge/GitHub-narasimhareddyputta94-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/narasimhareddy94/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:narasimhareddyputta94@gmail.com">
-    <img src="https://img.shields.io/badge/Email-narasimhareddyputta94%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.instagram.com/full_stack_guy/">
-    <img src="https://img.shields.io/badge/Instagram-@full__stack__guy-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/full_stack_guy/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
-</p>
+</div>
 
----
+<br />
 
-<h3 align="center" style="color:#00FFFF;">Build Bold · Deploy Smart · Scale Infinite</h3>
+<div align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
+</div>
