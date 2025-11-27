@@ -1,36 +1,39 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Narasimha%20Reddy%20Putta&fontSize=60&fontColor=ffffff&desc=Architecting%20Scalable%20Distributed%20Systems&descAlignY=75&descAlign=60" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:7A4FDF&height=220&section=header&text=Narasimha%20Reddy%20Putta&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Engineering%20Scalable%20Systems%20for%20a%20Connected%20World&descAlignY=60&descAlign=50" alt="Header" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7A4FDF&center=true&vCenter=true&width=600&lines=Java+%26+Cloud+Native+Specialist;Building+Resilient+Microservices;Bridging+Enterprise+Logic+with+GenAI" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7A4FDF&center=true&vCenter=true&width=800&lines=System.out.println(%22Hello+World!%22)%3B;Distributed+Systems+Architect+%7C+Java+Specialist;Bridging+Enterprise+Logic+with+Generative+AI;Turning+Complexity+Into+Elegant+Solutions." alt="Typing Intro" />
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/narasimhareddy94/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:narasimhareddyputta94@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/full_stack_guy/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  <a href="https://github.com/narasimhareddyputta94">
+     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=narasimhareddyputta94&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
+  <br/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=narasimhareddyputta94&style=flat-square&color=7A4FDF&label=VISITORS" alt="Profile Views" />
 </div>
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> The Mission Brief
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> The Engineering Manifesto
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=narasimhareddyputta94&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7A4FDF&icon_color=7A4FDF&hide=stars,issues,contribs" height="180" alt="stats graph" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=narasimhareddyputta94&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff&hide=stars,issues,contribs" height="180" alt="stats graph" />
 
-I am **Narasimha Reddy Putta**, a **Software Development Engineer** obsessed with scale, resilience, and precision.
+I am **Narasimha Reddy Putta**, a **Software Engineer** who treats code as critical infrastructure.
 
-Currently engaged in advanced studies (**MSc CS at DePaul**) and backed by **2.5 years of enterprise warfare**, I design backend ecosystems that survive massive loads. My engineering philosophy blends the robustness of legacy Java enterprise systems with the agility of modern cloud-native architectures.
+Currently optimizing my craft with an **MSc in Computer Science at DePaul University**, I bring **2.5 years of battle-tested experience** in building high-availability backend systems. I don't just write functions; I design **fault-tolerant ecosystems** that self-heal and scale horizontally.
 
-> 💡 **"Precision represents the difference between a system that works and a system that scales."**
+* 🔭 **Focus:** Distributed Systems, Cloud-Native Architecture, Event-Driven Patterns.
+* 🌱 **Currently Learning:** Advanced RAG (Retrieval-Augmented Generation) & Vector Databases.
+* ⚡ **Philosophy:** *"Make it work, make it right, make it fast."*
 
 <br clear="right"/>
 
@@ -77,31 +80,32 @@ Currently engaged in advanced studies (**MSc CS at DePaul**) and backed by **2.5
 
 ---
 
-### <img src="https://media.giphy.com/media/QssGEmpjCS4uGy7wbM/giphy.gif" width="35"> Signature Architectures & R&D
+### <img src="https://media.giphy.com/media/QssGEmpjCS4uGy7wbM/giphy.gif" width="35"> Signature Architectures
 
-I don't just build apps; I engineer resilient systems.
+I engineer systems that solve expensive problems.
 
-| <div align="center" width="150">System</div> | <div align="center">The Engineering Challenge & Impact</div> |
+| <div align="center" width="150">System Identity</div> | <div align="center">Engineering Challenge & Impact</div> |
 | :--- | :--- |
-| 🧠 **Neural-Bridge**<br>*(Active R&D)*<br>![Spring AI](https://img.shields.io/badge/-Spring_AI-232F3E?logo=spring) ![VectorDB](https://img.shields.io/badge/-VectorDB-232F3E?logo=redis) | **The Challenge:** Bridging rigid Enterprise Java systems with fluid Generative AI.<br>**The Solution:** Building an asynchronous AI middleware using Spring AI and RAG (Retrieval-Augmented Generation) to provide context-aware LLM responses to legacy applications without blocking main threads. |
-| 🛡️ **Sentinel Vault**<br>*(FinTech Core)*<br>![Java](https://img.shields.io/badge/-Java-232F3E?logo=openjdk) ![Postgres](https://img.shields.io/badge/-ACID-232F3E?logo=postgresql) | **The Challenge:** Preventing race conditions in high-frequency financial transactions.<br>**The Solution:** Engineered a Zero-Trust core using advanced PostgreSQL isolation levels and distributed locking, ensuring **100% ledger accuracy** and reducing transaction latency by 25%. |
-| ⚡ **Vortex Stream**<br>*(Global Commerce)*<br>![Kafka](https://img.shields.io/badge/-Kafka-232F3E?logo=apachekafka) ![K8s](https://img.shields.io/badge/-K8s-232F3E?logo=kubernetes) | **The Challenge:** Syncing inventory across global regions with sub-second latency.<br>**The Solution:** Implemented a CQRS event-driven architecture. Decoupled read/write paths using Kafka streams, achieving **40% faster checkout flows** and zero-downtime scalability during peak loads. |
+| 🧠 **Neural-Bridge**<br>*(Active R&D)*<br>![Spring AI](https://img.shields.io/badge/-Spring_AI-black?logo=spring) ![VectorDB](https://img.shields.io/badge/-VectorDB-black?logo=redis) | **The Challenge:** Bridging rigid Enterprise Java systems with fluid Generative AI.<br>**The Solution:** Architected an asynchronous middleware using **Spring AI** and **RAG**. It intercepts legacy API calls, injects context from a vector store, and sanitizes LLM outputs into strict JSON.<br>🚀 *Status: Bridging the gap between Java 21 and GPT-4.* |
+| 🛡️ **Sentinel Vault**<br>*(FinTech Core)*<br>![Java](https://img.shields.io/badge/-Java-black?logo=openjdk) ![Postgres](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql) | **The Challenge:** Preventing race conditions in high-concurrency financial ledgers.<br>**The Solution:** Engineered a **Zero-Trust Financial Core** using ACID-compliant isolation levels and pessimistic locking. Ensured 100% data integrity during simultaneous transfers.<br>🚀 *Outcome: Reduced transaction failure rate to 0.00% under load.* |
+| ⚡ **Vortex Stream**<br>*(Global Commerce)*<br>![Kafka](https://img.shields.io/badge/-Kafka-black?logo=apachekafka) ![K8s](https://img.shields.io/badge/-K8s-black?logo=kubernetes) | **The Challenge:** Syncing inventory across global regions with sub-second latency.<br>**The Solution:** Implemented a **CQRS Event-Driven Architecture**. Decoupled the write path (MySQL) from the read path (Elasticsearch) using Kafka streams for real-time hydration.<br>🚀 *Outcome: 40% faster checkout flows & Zero-Downtime scaling.* |
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> Operational Velocity
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> Operational Metrics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=narasimhareddyputta94&theme=tokyonight&hide_border=true&background=0D1117&ring=7A4FDF&fire=7A4FDF&currStreakLabel=7A4FDF" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=narasimhareddyputta94&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="streak graph" />
 </div>
 <br />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narasimhareddyputta94&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7A4FDF&icon_color=7A4FDF" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narasimhareddyputta94&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=ffffff" height="160" alt="languages graph" />
 </div>
 
 ---
 
 <div align="center">
-  <h3 style="color: #7A4FDF;">Ready to architect the next big thing?</h3>
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <br/>
+  <h3 style="color: #00FFFF;">Build Bold · Deploy Smart · Scale Infinite</h3>
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:7A4FDF&height=100&section=footer"/>
 </div>
